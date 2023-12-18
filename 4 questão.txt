@@ -1,0 +1,6 @@
+-- Quarta questão do desafio
+SELECT 
+    data_venda,
+    status_negociacao
+FROM desafio1
+WHERE status_negociacao = 'Vendido'LIMIT 10

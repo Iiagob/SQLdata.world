@@ -1,0 +1,3 @@
+--Primeira questão do desafio
+SELECT DISTINCT nome_vendedor
+FROM desafio1

@@ -1,0 +1,9 @@
+--Terceira questão do desafio
+SELECT 
+    YEAR(data_venda) AS Ano,
+    MONTH(data_venda) AS Mes,
+    SUM(valor_venda) AS total_venda
+FROM desafio1
+WHERE status_negociacao = 'Vendido'
+GROUP BY Mes 
+ORDER by valor_venda DESC

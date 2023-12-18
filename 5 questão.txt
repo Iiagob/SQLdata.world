@@ -1,0 +1,6 @@
+-- Quinta questão do desafio
+SELECT 
+  status_negociacao,
+  SUM(valor_venda)
+from desafio1
+GROUP by status_negociacao

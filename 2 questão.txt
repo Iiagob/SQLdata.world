@@ -1,0 +1,8 @@
+--Segunda questão do desafio
+SELECT DISTINCT
+    nome_vendedor,
+    SUM(valor_venda) AS total_vendido 
+FROM desafio1
+WHERE status_negociacao = 'Vendido'
+GROUP BY nome_vendedor 
+ORDER BY total_vendido DESC

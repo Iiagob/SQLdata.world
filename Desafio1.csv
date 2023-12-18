@@ -1,0 +1,76 @@
+﻿id_produto,Nome_vendedor,Valor_venda,Data_venda,Status_negociacao,Forma_pagamento
+1,Julia,275.67,15/05/2023,Vendido,Boleto
+2,Carlos,420.45,20/07/2023,Recusado,Não realizado
+3,Maria Alice,152.89,02/04/2023,Negociando,Não realizado
+4,Juliana,398.21,18/06/2023,Vendido,Pix
+5,Antonio,184.76,25/06/2023,Recusado,Não realizado
+6,Jairo,317.32,03/08/2023,Recusado,Não realizado
+7,Marcos Paulo,131.54,28/04/2023,Vendido,Pix
+8,Leticia,226.78,10/04/2023,Vendido,Cartão
+9,Estevão,305.11,29/06/2023,Recusado,Não realizado
+10,Ana Clara,111.94,11/03/2023,Vendido,Cartão
+11,Julia,478.63,05/08/2023,Recusado,Não realizado
+12,Carlos,321.78,23/08/2023,Recusado,Não realizado
+13,Maria Alice,183.27,09/04/2023,Vendido,Pix
+14,Juliana,324.11,17/06/2023,Recusado,Não realizado
+15,Antonio,208.89,15/08/2023,Recusado,Não realizado
+1,Julia,398.64,27/08/2023,Vendido,Cartão
+2,Carlos,275.44,22/03/2023,Vendido,Cartão
+3,Maria Alice,482.25,21/04/2023,Negociando,Não realizado
+4,Juliana,462.78,13/08/2023,Negociando,Não realizado
+5,Antonio,153.37,30/05/2023,Vendido,Boleto
+6,Jairo,193.66,02/05/2023,Recusado,Não realizado
+7,Marcos Paulo,143.39,21/05/2023,Vendido,Boleto
+8,Leticia,459.47,06/04/2023,Recusado,Não realizado
+9,Estevão,219.88,19/08/2023,Recusado,Não realizado
+10,Ana Clara,377.79,16/07/2023,Recusado,Não realizado
+11,Julia,340.57,13/04/2023,Vendido,Pix
+12,Carlos,134.47,01/06/2023,Negociando,Não realizado
+13,Maria Alice,188.21,08/08/2023,Vendido,Pix
+14,Juliana,171.45,24/08/2023,Vendido,Pix
+15,Antonio,440.13,26/05/2023,Vendido,Pix
+1,Julia,367.88,14/08/2023,Recusado,Não realizado
+2,Carlos,347.92,07/08/2023,Vendido,Pix
+3,Maria Alice,419.45,31/08/2023,Vendido,Pix
+4,Juliana,423.22,12/05/2023,Negociando,Não realizado
+5,Antonio,107.72,04/05/2023,Vendido,Pix
+6,Jairo,285.19,14/07/2023,Vendido,Pix
+7,Marcos Paulo,128.33,11/07/2023,Vendido,Pix
+8,Leticia,326.94,22/04/2023,Vendido,Pix
+9,Estevão,201.75,16/06/2023,Recusado,Não realizado
+10,Ana Clara,268.53,10/08/2023,Vendido,Boleto
+11,Julia,256.41,20/08/2023,Recusado,Não realizado
+12,Carlos,161.66,29/05/2023,Recusado,Não realizado
+13,Maria Alice,157.22,12/04/2023,Recusado,Não realizado
+14,Juliana,317.84,26/06/2023,Recusado,Não realizado
+15,Antonio,243.75,27/07/2023,Recusado,Não realizado
+1,Julia,212.17,24/07/2023,Vendido,Boleto
+2,Carlos,139.89,03/05/2023,Vendido,Boleto
+3,Maria Alice,407.16,07/07/2023,Vendido,Boleto
+4,Juliana,186.45,09/08/2023,Recusado,Não realizado
+5,Antonio,443.54,01/08/2023,Negociando,Não realizado
+6,Jairo,237.91,29/08/2023,Negociando,Não realizado
+7,Marcos Paulo,189.64,22/08/2023,Negociando,Não realizado
+8,Leticia,286.45,18/08/2023,Vendido,Boleto
+9,Estevão,172.34,13/08/2023,Vendido,Boleto
+10,Ana Clara,391.22,09/08/2023,Vendido,Boleto
+11,Julia,288.55,05/08/2023,Vendido,Boleto
+12,Carlos,453.23,01/08/2023,Vendido,Boleto
+13,Maria Alice,267.38,28/07/2023,Vendido,Boleto
+14,Juliana,134.87,25/07/2023,Vendido,Boleto
+15,Antonio,314.92,22/07/2023,Vendido,Boleto
+1,Julia,198.75,19/07/2023,Vendido,Boleto
+2,Carlos,372.67,16/07/2023,Vendido,Boleto
+3,Maria Alice,263.19,13/07/2023,Vendido,Boleto
+4,Juliana,124.88,10/07/2023,Vendido,Boleto
+5,Antonio,396.71,07/07/2023,Vendido,Pix
+6,Jairo,181.54,04/07/2023,Vendido,Pix
+7,Marcos Paulo,329.87,01/07/2023,Vendido,Cartão
+8,Leticia,299.66,28/06/2023,Vendido,Cartão
+9,Estevão,157.32,25/06/2023,Vendido,Cartão
+10,Ana Clara,423.45,22/06/2023,Vendido,Cartão
+11,Julia,194.76,19/06/2023,Vendido,Cartão
+12,Carlos,382.88,16/06/2023,Vendido,Cartão
+13,Maria Alice,249.67,13/06/2023,Vendido,Cartão
+14,Juliana,175.43,10/06/2023,Vendido,Cartão
+15,Antonio,314.56,07/06/2023,Vendido,Cartão
